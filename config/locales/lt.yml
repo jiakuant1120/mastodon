@@ -799,6 +799,7 @@ lt:
     contrast: Mastodon (Didelio Kontrasto)
     default: Mastodon (Tamsus)
     mastodon-light: Mastodon (Šviesus)
+    system: Automatinis (naudoti sistemos temą)
   two_factor_authentication:
     disable: Išjungti
     enabled: Dviejų veiksnių autentikacija įjungta
