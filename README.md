@@ -19,6 +19,10 @@ Click below to **learn more** in a video:
 
 [youtube_demo]: https://www.youtube.com/watch?v=IPSbNdBmWKE
 
+## Piclub
+
+let's go
+
 ## Navigation
 
 - [Project homepage 🐘](https://joinmastodon.org)
